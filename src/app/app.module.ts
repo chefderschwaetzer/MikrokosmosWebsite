@@ -25,7 +25,7 @@ import { FooterComponent } from './footer/footer.component';
   imports: [
     BrowserModule,
     AppRoutingModule,
-    MatCardModule
+    MatCardModule,
   ],
   providers: [
     provideClientHydration(withEventReplay()),

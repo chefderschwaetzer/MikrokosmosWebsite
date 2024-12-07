@@ -1,0 +1,39 @@
+{
+    "artists": [
+      {
+        "id": 1,
+        "name": "Twizzlah",
+        "description": "Ein vielseitiger Musiker mit einem einzigartigen Stil, der Swag und elektronische Musik kombiniert.",
+        "genre": "Jungle",
+        "origin": "Mosbach",
+        "socials": {
+          "instagram": "https://instagram.com/johndoe",
+          "twitter": "https://twitter.com/johndoe",
+          "website": "https://johndoemusic.com"
+        }
+      },
+      {
+        "id": 2,
+        "name": "L3ander &`Luis",
+        "description": "Ein weltbekannte DJs, die für ihre energiegeladenen Sets und innovativen Remixes gefeiert werden.",
+        "genre": "House/Techno/Neurofunk",
+        "origin": "Mosbach",
+        "socials": {
+          "soundcloud": "https://soundcloud.com/djbassline",
+          "spotify": "https://open.spotify.com/artist/djbassline"
+        }
+      },
+      {
+        "id": 3,
+        "name": "The Echoes",
+        "description": "Eine Indie-Rock-Band mit einem nostalgischen Klang und modernen Einflüssen.",
+        "genre": "Indie Rock",
+        "origin": "London, Vereinigtes Königreich",
+        "socials": {
+          "facebook": "https://facebook.com/theechoesband",
+          "website": "https://theechoesband.com"
+        }
+      }
+    ]
+  }
+  
