@@ -1,0 +1,13 @@
+<app-nav-bar></app-nav-bar>
+
+<div>
+    <h1>Artists:</h1>
+    <mat-card *ngFor="let artist of artists">
+        <mat-card-header>
+            <mat-card-title>{{artist.name}}</mat-card-title>
+        </mat-card-header>
+    </mat-card>
+</div>
+
+
+<app-footer></app-footer>
